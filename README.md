@@ -4,4 +4,4 @@
 <h4 align="center">
 Karl ⠀Proxy⠀⠀Sailor
 <br>  xe⠀it ₍⑅ᐢ..ᐢ₎⠀ audhd<br>
-taken <a href="pronouns.cc/@whysoptera">@acesterisco</a>
+taken <a href="https://pronouns.cc/@whysoptera">@acesterisco</a>
