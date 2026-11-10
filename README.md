@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://file.garden/Z1ogCNtnlFqMuTSI/20250202_153322.jpg">
+  <img width="300" height="auto" src="https://file.garden/Z1ogCNtnlFqMuTSI/20250202_153322.jpg">
 </p>
 <h4 align="center">
 Karl ⠀Proxy⠀⠀Sailor
